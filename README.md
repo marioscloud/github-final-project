@@ -4,6 +4,20 @@
 
 Welcome to the Simple Interest Calculator project! This repository contains a Python script designed to calculate simple interest, hosted as part of a micro-finance startup's mission to empower and provide opportunities for low-income individuals. This project marks the startup's transition from Subversion (SVN) to Git, showcasing best practices in version control, open-source collaboration, and community engagement.
 
+**Project Scenario**
+
+You recently joined a micro-finance startup with a mission to empower low-income individuals by providing financial opportunities. The core development team has been using Subversion (SVN) for code management but is transitioning to Git. As a first step in this transition, you have been tasked with hosting sample code for calculating simple interest on GitHub. In addition to hosting the script, you will follow best practices by creating supporting documents, including a Code of Conduct and Contribution Guidelines. The repository is licensed under the Apache License 2.0 to ensure open-source availability.
+
+**Objectives**
+
+By completing this project, you will demonstrate the ability to:
+
+    Create a new repository on GitHub.
+
+    Select and apply an appropriate license for the project.
+
+    Create a comprehensive 
+
 **Project Overview**
 
 This project demonstrates the calculation of simple interest using a basic Python script. The script takes the principal amount, interest rate, and time period as input and calculates the simple interest based on the provided values.
