@@ -1,5 +1,14 @@
 **Simple Interest Calculator**
 
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
+
 **Introduction**
 
 Welcome to the Simple Interest Calculator project! This repository contains a Python script designed to calculate simple interest, hosted as part of a micro-finance startup's mission to empower and provide opportunities for low-income individuals. This project marks the startup's transition from Subversion (SVN) to Git, showcasing best practices in version control, open-source collaboration, and community engagement.
