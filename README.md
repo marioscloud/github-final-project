@@ -33,7 +33,7 @@ This project demonstrates the calculation of simple interest using a basic Pytho
 
 **Repository Contents**
 
-    simple_interest_calculator.py: The main Python script for calculating simple interest.
+    simple-interest.sh: The main bash script for calculating simple interest.
 
     README.md: This file, providing an overview of the project, setup instructions, and usage guidelines.
 
