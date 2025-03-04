@@ -40,7 +40,7 @@ To get started with the Simple Interest Calculator, follow these steps:
 
     1. Clone the Repository:
 
-    git clone
+    git clone https://github.com/marioscloud/github-final-project/blob/main/README.md
 
     2.Navigate to the Project Directory:
 
